@@ -1,2 +1,2 @@
 # CourseNet
-BackEnd Project on Teaching by Creating and Using Courses
+BackEnd Project on Teaching by Creating and Using Courses, using Clean Architecture + DDD + Repository
